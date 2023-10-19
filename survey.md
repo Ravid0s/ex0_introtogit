@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: BORDO
+Favorite food: Hamburger
+Favorite musician/band: static
+Favorite movie: The body
+Requested grade in the course: 95+ 
